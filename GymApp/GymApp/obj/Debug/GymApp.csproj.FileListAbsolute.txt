@@ -1,0 +1,12 @@
+E:\LokalnoGitRepozitorij\GymApp\GymApp\obj\Debug\GymApp.csproj.AssemblyReference.cache
+E:\LokalnoGitRepozitorij\GymApp\GymApp\obj\Debug\GymApp.csproj.SuggestedBindingRedirects.cache
+E:\LokalnoGitRepozitorij\GymApp\GymApp\obj\Debug\GymApp.Properties.Resources.resources
+E:\LokalnoGitRepozitorij\GymApp\GymApp\obj\Debug\GymApp.View.LoginView.resources
+E:\LokalnoGitRepozitorij\GymApp\GymApp\obj\Debug\GymApp.View.MainView.resources
+E:\LokalnoGitRepozitorij\GymApp\GymApp\obj\Debug\GymApp.csproj.GenerateResource.cache
+E:\LokalnoGitRepozitorij\GymApp\GymApp\obj\Debug\GymApp.csproj.CoreCompileInputs.cache
+E:\LokalnoGitRepozitorij\GymApp\GymApp\bin\Debug\GymApp.exe.config
+E:\LokalnoGitRepozitorij\GymApp\GymApp\bin\Debug\GymApp.exe
+E:\LokalnoGitRepozitorij\GymApp\GymApp\bin\Debug\GymApp.pdb
+E:\LokalnoGitRepozitorij\GymApp\GymApp\obj\Debug\GymApp.exe
+E:\LokalnoGitRepozitorij\GymApp\GymApp\obj\Debug\GymApp.pdb
